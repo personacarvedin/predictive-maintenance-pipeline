@@ -1,0 +1,4 @@
+Type,Air temperature [K],Process temperature [K],Rotational speed [rpm],Torque [Nm],Tool wear [min],temperature_diff,power_proxy,prediction,label,confidence,proba_normal,proba_faulty
+0,-0.5,-0.4,0.1,-0.2,-1.0,0.1,-0.02,0,Normal ✅,1.0,1.0,0.0
+1,1.8,2.1,-1.5,2.5,2.8,0.3,-3.75,1,FAULTY ⚠️,0.7,0.3,0.7
+2,0.0,0.1,0.5,0.3,0.5,0.1,0.15,0,Normal ✅,0.99,0.99,0.01
